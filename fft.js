@@ -12,11 +12,11 @@ const rp = require('request-promise');
 const _ = require('lodash');
 
 const User = {
-    username: '',
-    password: ''
+    username: 'kx839',
+    password: '081264715402'
 }
 
-const TargetUsername = '';
+const TargetUsername = 'ayutingting92';
 
 const Login = async function(User){
 
